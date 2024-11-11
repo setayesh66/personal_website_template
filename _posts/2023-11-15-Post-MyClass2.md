@@ -1,11 +1,17 @@
 ---
 layout: posts
-title: چه هوای خوبی
+title: My Crewmates 
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- Zoro
+- Nami
+- Usopp
+- Sanji
+- Chopper
+- Robin
+- Franky
+- Brook
+- Jimbe
 
 # this is a header
 
