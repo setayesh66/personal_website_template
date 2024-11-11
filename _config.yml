@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "setayesh"
-  avatar           : "/assets/images/https://metexonline.com/wp-content/uploads/2021/10/Pest-Main-scaled-1-2048x886.jpg"
-  bio              : I'm the best student.
-  location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
+  name             : "Monkey D. Luffy"
+  avatar           : "/assets/images/images.jfif.jpg"
+  bio              : I will become the pirate king
+  location         : "laughtale"
+  email            : onepiece@gmail.com
+  twitter: strawhats.op
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: worstgeneration.op
+  instagram: luffytaro
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
