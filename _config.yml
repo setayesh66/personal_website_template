@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "پوررنگ آتشی"
 title_separator          : "-"
 name                     : "Poorang" 
-description              : "Welcome to my web site."
+description              : "Welcomee to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,8 +107,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
-  avatar           : "/assets/images/bio-photo.jpg"
+  name             : "setayesh"
+  avatar           : "/assets/images/https://metexonline.com/wp-content/uploads/2021/10/Pest-Main-scaled-1-2048x886.jpg"
   bio              : I'm the best student.
   location         : "تهران"
   email            : sauleh@gmail.com
