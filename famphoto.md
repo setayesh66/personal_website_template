@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /cv/
+permalink: /FamPhoto/
 title: Fam Photo
 tags: [resume, cv]
 modified: 4-14-2019

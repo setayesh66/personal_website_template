@@ -16,12 +16,8 @@ We have a:
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
-
-
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](one-piece-every-straw-hat-pirates-age-height-birthday.avif "Team Picture")
 
 ---
 **Test**: This is atest

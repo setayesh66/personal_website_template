@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
-  - title: "Courses"
-    url: /courses/
+  - title: "Fam Photo"
+    url: /FamPhoto/
+  - title: "Sanji Meal Courses"
+    url: /Meals/
   - title: "Friends"
     url: /friends/
   - title: "Links"
@@ -12,8 +12,6 @@ main:
     url: /hobbies/  
   - title: "Gallery"
     url: /gallery/
-  - title: "Blog"
-    url: /blog/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
