@@ -11,7 +11,7 @@ comments: false
 
 |**Weekdays**| **meal name**                 |
 |------------|-------------------------------|
-|Saturday| **<a href="">Marine Curry</a>** |
+|Saturday| **<a href="/ds98/">Marine Curry</a>** |
 |------------|-------------------------------|
 |Sunday| **<a href="/ds98/">Soba</a>** |
 |----|------|--------------------------------|
