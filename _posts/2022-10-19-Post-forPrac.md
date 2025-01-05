@@ -1,10 +1,33 @@
 ---
 layout: posts
-title: NBE
+title: exam
 ---
-we trynna practice here.
+
+
+|**Name**| **Last Name**                 |
+|------------|-------------------------------|
+|Setayesh| **<a href="/ds98/">Eisazadeh</a>** |
+|------------|-------------------------------|
+|Parastesh| **<a href="/ds98/">Eisazadeh</a>** |
+|----|------|--------------------------------|
 
 
 
-![alt text](/assets/images/WIN_20241231_17_34_33_Pro.jpg "Team Picture")
 
+<input type="checkbox" id="showText">
+<label for="showText">Click to show text</label>
+
+<div id="additionalText" style="display:none;">
+    <p>متن اضافی که پس از تیک زدن نمایش داده می‌شود.</p>
+</div>
+
+<script>
+    document.getElementById("showText").addEventListener("change", function() {
+        var text = document.getElementById("additionalText");
+        if (this.checked) {
+            text.style.display = "block";
+        } else {
+            text.style.display = "none";
+        }
+    });
+</script>
